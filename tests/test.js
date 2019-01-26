@@ -6,6 +6,6 @@ describe('/GET',()=>{
         //Make a get request to our express server
         request(app)
         .get('/')
-        .expect('hello',done)
+        .expect('hello world',done)
     })
 })
