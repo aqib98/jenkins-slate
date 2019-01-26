@@ -1,6 +1,6 @@
 {
   "name": "jenkins-slate",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A jenkins workshop project",
   "main": "index.js",
   "scripts": {
